@@ -1,8 +1,14 @@
+body {
+  text-align: center;
+  background: black;
+}
+
 h2 {
   color: pink;
   font: 24px bold;
 }
 
-* {
-  text-align: center;
+h3 {
+  color: pink;
+  font: 16px;
 }
