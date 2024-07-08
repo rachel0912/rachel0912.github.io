@@ -3,6 +3,11 @@ body {
   background-color: black;
 }
 
+h1 {
+  color: pink;
+  font: 50px;
+}
+
 h2 {
   color: pink;
   font: 24px bold;
