@@ -21,3 +21,9 @@ h3 {
 a {
   color: pink;
 }
+
+p {
+  color: pink;
+  font: 14px italic;
+  text-align: center;
+}
